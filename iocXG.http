@@ -1,0 +1,6 @@
+@iocXG_HostAddress = http://localhost:5117
+
+GET {{iocXG_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
